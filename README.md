@@ -19,4 +19,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:4169E1,50:FF1493,100:EE82EE&fontColor=fbfefb&animation=fadeIn&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:4169E1,50:FF1493,100:EE82EE&fontColor=fbfefb&animation=fadeIn&height=2)
