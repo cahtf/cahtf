@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,70:00FFFF,90:9400D3&fontColor=fbfefb&animation=fadeIn&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FA5882,40:9400D3,100:00FFFF&fontColor=fbfefb&animation=fadeIn&height=1)
 <div>
   
 ###
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic&weight=900&size=16&duration=7008&pause=988&color=FF1493&multiline=true&width=430&lines=Hello%2C+World++%E2%99%A1+)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic&weight=900&size=16&duration=6008&pause=688&color=FA58F4&multiline=true&width=430&lines=Hello%2C+World++%E2%99%A1+)](https://git.io/typing-svg)
   
   <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="Python Badge"></a>
 <a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="Java Badge"></a>
@@ -19,4 +19,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,70:00FFFF,90:9400D3&fontColor=fbfefb&animation=fadeIn&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FA5882,40:9400D3,100:00FFFF&fontColor=fbfefb&animation=fadeIn&height=1)
