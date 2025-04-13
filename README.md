@@ -1,22 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FA5882,40:9400D3,100:00FFFF&fontColor=fbfefb&animation=fadeIn&height=1)
-<div>
-  
+
 ###
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic&weight=900&size=16&duration=6008&pause=688&color=FA5882&multiline=true&width=430&lines=Hello%2C+World++%E2%99%A1+)](https://git.io/typing-svg)
-  
-  <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="Python Badge"></a>
-<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="Java Badge"></a>
-<a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="PHP Badge"></a>
-<a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="HTML5 Badge"></a>
-<a href="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="CSS Badge"></a>
-<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="JavaScript Badge"></a>
-<a href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="TypeScript Badge"></a>
-<a href="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="Node.js Badge"></a>
-<a href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="React Badge"></a>
-<a href="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="React N Badge"></a>
-<a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="C Badge"></a>
-<a href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank" style="text-decoration: none; border: none; padding: 0; margin: 0;"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20" style="display: block; border: none; padding: 0; margin: 0;" alt="C%2B%2B Badge"></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic&weight=900&size=16&duration=6008&pause=688&color=C71585&multiline=true&width=430&lines=Hello%2C+World++%E2%99%A1+)](https://git.io/typing-svg)
 
-</div>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FA5882,40:9400D3,100:00FFFF&fontColor=fbfefb&animation=fadeIn&height=1)
+<p align="center">
+  <img src="https://i.postimg.cc/1tDYhcD9/Chat-GPT-Image-13-de-abr-de-2025-20-02-21.png" alt="Setup Gamer" width="800"/>
+</p>
+
