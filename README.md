@@ -16,11 +16,11 @@
 
 <center>
 <pre>
-💻 Exploring full-stack development
-🤖 Passionate about artificial intelligence
-🪙 Interested in finance & cryptocurrency
-📚 Always learning and improving
-🎵 When not coding, you’ll find me enjoying music or immersed in games
+ 🩷 Exploring full-stack development
+ 🩷 Passionate about artificial intelligence
+ 🩷 Interested in finance & cryptocurrency
+ 🩷 Always learning and improving
+ 🩷 When not coding, you’ll find me enjoying music or immersed in games
 </pre>
 </center>
 
